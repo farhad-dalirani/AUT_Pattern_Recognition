@@ -1,5 +1,5 @@
 # AUT_Pattern_Recognition
-This Repository contains my answers to Pattern Recognition assignments of Amirkabir University of Technology
+This Repository contains my answers to Pattern Recognition assignments of Amirkabir University of Technology. Each assignment includes questions, codes and report.
 
 Professor: [Dr. Mohammad Rahmati](http://ceit.aut.ac.ir/autcms/people/verticalPagesAjax/professorHomePage.htm?url=rahmati&depurl=computer-engineering&lang=en)
 
