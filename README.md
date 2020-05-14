@@ -11,5 +11,5 @@ Year: 2016-2017, Fall Semester
 - Assignment 4: Nonparametric Estimation
 - Assignment 5: PCA & LDA
 - Assignment 6: Linear classifiers
-- Assignment Project: Multi-label classification with Bayesian network-based chain classifiers
+- Project: Multi-label classification with Bayesian network-based chain classifiers
 
